@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-list-ClientList/blob/master/Client-List-List-form.gif" alt="Client List" height="auto" width="300"></p>
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-list-ClientList/blob/master/template.gif" alt="Client List" height="auto" width="300"></p>
 
 ## Client List
 
