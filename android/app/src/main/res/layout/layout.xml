@@ -62,7 +62,7 @@
             android:layout_marginEnd="12dp"
             android:layout_marginBottom="12dp"
             android:scrollbars="none"
-            android:text="__LABEL_3__"
+            android:text="__FIELD_LABEL_3__"
             android:textAppearance="@style/TextAppearance.MaterialComponents.Body1"
             android:textColor="?colorOnSurface"
             app:layout_constraintBottom_toBottomOf="parent"
