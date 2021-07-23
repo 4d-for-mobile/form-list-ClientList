@@ -28,7 +28,7 @@
             android:layout_marginBottom="8dp"
             android:scrollbars="none"
             android:text="___TEXT_1___"
-            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
             android:textColor="?colorOnSurface"
             app:layout_constraintBottom_toTopOf="@+id/___SPECIFIC_ID_2___"
             app:layout_constraintEnd_toEndOf="parent"
@@ -46,7 +46,7 @@
             android:layout_marginBottom="8dp"
             android:scrollbars="none"
             android:text="___TEXT_2___"
-            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle1"
             android:textColor="?colorOnSurface"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -63,7 +63,7 @@
             android:layout_marginBottom="12dp"
             android:scrollbars="none"
             android:text="___FIELD_LABEL_3___"
-            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle1"
             android:textColor="?colorOnSurface"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/cardView"
@@ -97,7 +97,7 @@
                 android:textAppearance="@style/TextAppearance.MaterialComponents.Body1"
                 android:textColor="?colorOnPrimary"
                 tools:text="My field 3" />
-            
+
         </androidx.cardview.widget.CardView>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
